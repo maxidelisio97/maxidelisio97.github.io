@@ -1,0 +1,293 @@
+@media(max-width:720px){
+
+    #primero{        
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    height: 380px;
+    }
+    #neri{
+        height: 40px;
+    }
+    #neri img{
+        width: 220px;
+        margin-top: 15px;
+    }
+
+    #menu ul li a{
+        font-size: 17px;
+    }
+    #textoDivPrimero{
+        margin-top:15px;
+    }
+
+    #textoPrimero{
+        font-size: 44px;
+        line-height: 61px;
+    }    
+
+    #cajaDivPrimero{
+        width: 30%;
+        margin-top: 28px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 17px;
+        line-height: 17px;
+    }
+
+    #segundo{
+        height: 352px;
+        margin-top: 30px;
+    }
+
+    #segundo h2{
+        font-size: 66px;
+        line-height: 100px;
+    }
+
+    #segundo p{
+        font-size: 24px;
+        line-height: 27px;
+        margin: 0px 50px 0px 50px;
+    }
+
+    #tercero h2{
+        font-size: 66px;
+        line-height: 87px;
+    }
+
+    .imagen{
+        width: 300px;
+    }
+
+    #cuarto{
+        background-repeat: no-repeat;   
+    background-size: 111% 100%;
+    }
+
+    #cuarto div{
+        width: 42%;
+        margin-top: 35px;
+        margin-right: 38px;
+
+    }
+
+    #cuarto h2{
+        font-size: 46px;
+        padding-top: 20px;
+        line-height: 55px;
+    }
+
+    #cuarto p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #quinto{        
+        height: 110px;
+    }
+
+    #quinto h2{
+        font-size: 50px;
+        line-height: 90px;
+
+    }
+
+    #footer{
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+
+    #footer article{
+        width: 81%;
+        font-size: 20px;
+        line-height: 27px;
+    }
+    #footer #wrap > div{
+        width: 38%;
+        margin:26px 40px;
+    }
+    #wrap h5{
+        font-size: 30px;
+    }
+    #contacto p{
+        font-size: 16px;
+    }
+
+    #copy {
+        font-size: 11px;
+        line-height: 33px;
+    }
+   
+}
+
+@media(max-width:450px){
+    #primero{        
+        background-repeat: no-repeat;   
+        background-size: 136% 90%;
+        height: 380px;
+        }
+        #neri{
+            height: 25px;
+        }
+        #neri img{
+            width: 180px;
+            margin-top: 15px;
+        }
+      
+        #menu ul li{
+            margin: 0 2px;
+        }
+    
+        #menu ul li a{
+            font-size: 11px;
+            padding-right: 8px;
+           
+        }
+
+        #textoDivPrimero{
+            margin-top:30px;
+        }
+    
+        #textoPrimero{
+            font-size: 30px;
+            line-height: 46px;
+        }    
+    
+        #cajaDivPrimero{
+            width: 35%;
+            margin-top: 50px;
+            padding:3px;
+            border-radius: 12px;
+        }
+        #textoCajaDivPrimero{
+            font-size: 12px;
+            line-height: 15px;
+        }
+    
+        #segundo{
+            height: 210px;
+            margin-top:0px;
+        }
+    
+        #segundo h2{
+            font-size: 38px;
+            line-height: 35px;
+        }
+    
+        #segundo p{
+            font-size: 13px;
+            line-height: 19px;
+            margin: 20px 32px 0px 32px;
+            padding: 0px;
+        }
+    
+        #tercero h2{
+            font-size: 38px;
+            line-height: 50px;
+        }
+    
+        .imagen{
+            width: 150px;
+        }
+    
+        #cuarto{
+           height: 313px;
+        background-size: 111% 100%;
+        }
+    
+        #cuarto div{
+            width: 42%;
+            margin-top: 20px;
+            margin-right: 25px;
+    
+        }
+    
+        #cuarto h2{
+            font-size: 33px;
+            padding-top: 20px;
+            line-height: 40px;
+        }
+    
+        #cuarto p{
+            font-size: 13px;
+            line-height: 17px;
+        }
+    
+        #quinto{        
+            height: 80px;
+        }
+    
+        #quinto h2{
+            font-size: 29px;
+            line-height: 62px;
+    
+        }
+    
+        #footer{
+            height: 290px;
+            background-size: 142% 100%;
+        }
+    
+        #footer article{
+            width: 80%;
+            padding-top:8px;
+            font-size: 12px;
+            line-height: 19px;
+        }
+        #footer #wrap > div{
+            width: 44%;
+            margin:0px 11px;
+            
+        }
+        #wrap h5{
+            font-size: 20px;
+            height: 34px;
+            line-height: 40px;
+        }
+        #contacto p img{
+            width: 13px;
+        }
+        #contacto p{
+            font-size: 11px;
+            line-height: 0px;
+        }
+
+        #location iframe{
+            height: 147px;
+        }
+    
+        #copy {
+            font-size: 7px;
+            line-height: 15px;
+            height: 15px;
+        }
+       
+}
+
+@media(max-width:398px){
+    #cuarto p{
+        font-size: 11px;
+    }
+
+    #quinto h2{
+        font-size: 25px;
+    }
+
+    #contacto p{
+        font-size: 8px;
+    }
+    #footer article{
+        font-size: 10px;
+    }
+
+    #wrap h5{
+        font-size: 18px;
+        height: 30px;
+        line-height: 34px;
+    }
+    #footer #wrap > div{
+        width: 41%;
+    }
+}
