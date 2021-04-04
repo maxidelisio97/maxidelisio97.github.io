@@ -285,11 +285,16 @@ hr{
 
 }
 
+#wrap{
+    width: 100%;
+}
+
 #footer{
     width: 100%;
     background-image: url("../img/image5.png");
     height: 480px;
     overflow: hidden;
+    
 }
 
 #footer article{

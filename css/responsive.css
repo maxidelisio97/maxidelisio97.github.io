@@ -122,6 +122,31 @@
    
 }
 
+@media(max-width:671px){
+    #footer{
+        background-size: 168% 100%;
+        height: 744px;
+        margin: 0 auto;
+    }
+   
+
+    #footer #wrap > div {
+        float: none;
+        width:65%;
+        margin: 30px auto;
+                
+    }
+
+    #wrap h5{
+        font-size: 36px;
+        letter-spacing: 4px;
+    }
+
+    #contacto p{
+        font-size: 22px;
+    }
+}
+
 @media(max-width:450px){
     #primero{        
         background-repeat: no-repeat;   
@@ -266,7 +291,13 @@
        
 }
 
+
 @media(max-width:398px){
+    #footer{
+        background-size: 168% 100%;
+        height: 500px;
+        margin: 0 auto;
+    }
     #cuarto p{
         font-size: 11px;
     }
@@ -276,18 +307,20 @@
     }
 
     #contacto p{
-        font-size: 8px;
+        font-size: 15px;
     }
     #footer article{
         font-size: 10px;
     }
 
     #wrap h5{
-        font-size: 18px;
-        height: 30px;
-        line-height: 34px;
+        font-size: 25px;
+        letter-spacing: 4px;
     }
     #footer #wrap > div{
-        width: 41%;
+        float: none;
+        width:65%;
+        margin: 30px auto;
     }
 }
+
