@@ -1,3 +1,142 @@
+@media(max-width:1382px){
+
+    #contacto p{
+        font-size: 23px;
+    }
+
+    #cuarto p{
+        font-size: 28px;
+    }
+
+    #footer article{
+        font-size: 24px;
+        width: 70%;
+    }
+    #segundo p{
+        font-size: 29px;
+        line-height: 35px;
+    }
+
+}
+
+@media(max-width:1240px){
+    #segundo p{
+        font-size: 27px;
+        line-height: 30px;
+    }
+    #cuarto p{
+        font-size: 25px;
+    }
+    #footer article{
+        font-size: 22px;
+    }
+    #footer #wrap > div{
+        
+        width: 45%;
+        margin: 0px;
+        padding: 20px;
+    }
+
+
+}
+
+@media(max-width:1092px){
+    #segundo h2{
+        font-size: 80px;
+    }
+    #segundo p{
+        font-size: 23px;
+        margin: 14px 100px 40px 100px;
+    }
+    #tercero h2{
+        font-size: 80px;
+    }
+    #cuarto p{
+        font-size: 22px;
+    }
+    #cuarto h2{
+        font-size: 55px;
+        padding-top: 30px;
+    }
+    #quinto h2{
+        font-size: 60px;
+    }
+    #cuarto div{
+        width: 36%;
+        margin-top: 25px;
+    }
+}
+@media(max-width:940px){
+    #textoPrimero{
+        font-size: 60px;
+    }
+    #menu ul li a{
+        font-size: 20px;
+    }
+    .imagen{
+        width: 280px;
+    }
+    #cajaDivPrimero{
+        width: 26%;
+        padding: 2px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 20px;
+        line-height: 27px;
+    }
+    #cuarto p{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+@media(max-width:854px){
+    #cuarto h2{
+        font-size: 44px;
+        padding-top: 20px;
+        line-height: 50px;
+    }
+    #cuarto div{
+        width: 38%;
+        margin-right: 75px;
+        margin-top: 40px;
+    }
+    #tercero h2{
+        font-size: 70px;
+    }
+    #segundo p{
+        font-size: 21px;
+        margin: 0px 70px 40px 70px;
+    }
+    #footer{
+        background-size: 168% 100%;
+        height: 780px;
+        margin: 0 auto;
+    }
+   
+    #quinto h2{
+        font-size: 50px;
+        line-height: 95px;
+
+    }
+
+    #footer #wrap > div {
+        float: none;
+        width:65%;
+        margin: 0px auto;
+                
+    }
+
+    #wrap h5{
+        font-size: 36px;
+        letter-spacing: 4px;
+    }
+    #footer article{
+        font-size: 20px;
+    }
+   
+
+}
+
 @media(max-width:720px){
 
     #primero{        
@@ -21,7 +160,7 @@
     }
 
     #textoPrimero{
-        font-size: 44px;
+        font-size: 48px;
         line-height: 61px;
     }    
 
@@ -85,18 +224,19 @@
     }
 
     #quinto{        
-        height: 110px;
+        height:100px;
     }
 
     #quinto h2{
         font-size: 50px;
-        line-height: 90px;
+        line-height: 78px;
 
     }
 
     #footer{
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
+        background-size: 168% 100%;
+        height: 770px;
+        margin: 0 auto;
     }
 
     #footer article{
@@ -104,16 +244,17 @@
         font-size: 20px;
         line-height: 27px;
     }
-    #footer #wrap > div{
-        width: 38%;
-        margin:26px 40px;
+    #footer #wrap > div {
+        float: none;
+        width:65%;
+        margin: 0px auto;
+                
     }
     #wrap h5{
-        font-size: 30px;
+        font-size: 36px;
+        letter-spacing: 4px;
     }
-    #contacto p{
-        font-size: 16px;
-    }
+    
 
     #copy {
         font-size: 11px;
@@ -125,16 +266,42 @@
 @media(max-width:671px){
     #footer{
         background-size: 168% 100%;
-        height: 744px;
+       
         margin: 0 auto;
     }
-   
+    #segundo h2{
+        font-size: 62px;
+        line-height: 100px;
+    }
+
+    #segundo p{
+        font-size: 20px;
+        line-height: 27px;
+        margin: 0px 15px 0px 15px;
+    }
+    #quinto h2{
+        font-size: 40px;
+        line-height: 87px;
+
+    }
+    #tercero h2{
+        font-size: 58px;
+        line-height: 87px;
+    }
+    #footer article{
+        font-size: 18px;
+    }
 
     #footer #wrap > div {
         float: none;
         width:65%;
-        margin: 30px auto;
+        margin: 0px auto;
                 
+    }
+    #cuarto div{
+        float: none;
+        width: 90%;
+        margin:20px auto;
     }
 
     #wrap h5{
@@ -147,180 +314,501 @@
     }
 }
 
-@media(max-width:450px){
-    #primero{        
-        background-repeat: no-repeat;   
-        background-size: 136% 90%;
-        height: 380px;
-        }
-        #neri{
-            height: 25px;
-        }
-        #neri img{
-            width: 180px;
-            margin-top: 15px;
-        }
-      
-        #menu ul li{
-            margin: 0 2px;
-        }
-    
-        #menu ul li a{
-            font-size: 11px;
-            padding-right: 8px;
-           
-        }
+@media(max-width:550px){
+    #neri img{
+        width: 190px;
+        
+    }
+    #menu ul li a{
+        font-size: 12px;
+    }  
+    #textoPrimero{
+        font-size: 38px;
+        line-height: 61px;
+    }    
 
-        #textoDivPrimero{
-            margin-top:30px;
-        }
+    #cajaDivPrimero{
+        width: 33%;
+        margin-top: 28px;
+        padding:8px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 15px;
+        line-height: 15px;
+    }
+    #segundo h2{
+        font-size: 50px;
+    }
+    #tercero{
+        height: 100px;
+    }
     
-        #textoPrimero{
-            font-size: 30px;
-            line-height: 46px;
-        }    
-    
-        #cajaDivPrimero{
-            width: 35%;
-            margin-top: 50px;
-            padding:3px;
-            border-radius: 12px;
-        }
-        #textoCajaDivPrimero{
-            font-size: 12px;
-            line-height: 15px;
-        }
-    
-        #segundo{
-            height: 210px;
-            margin-top:0px;
-        }
-    
-        #segundo h2{
-            font-size: 38px;
-            line-height: 35px;
-        }
-    
-        #segundo p{
-            font-size: 13px;
-            line-height: 19px;
-            margin: 20px 32px 0px 32px;
-            padding: 0px;
-        }
-    
-        #tercero h2{
-            font-size: 38px;
-            line-height: 50px;
-        }
-    
-        .imagen{
-            width: 150px;
-        }
-    
-        #cuarto{
-           height: 313px;
-        background-size: 111% 100%;
-        }
-    
-        #cuarto div{
-            width: 42%;
-            margin-top: 20px;
-            margin-right: 25px;
-    
-        }
-    
-        #cuarto h2{
-            font-size: 33px;
-            padding-top: 20px;
-            line-height: 40px;
-        }
-    
-        #cuarto p{
-            font-size: 13px;
-            line-height: 17px;
-        }
-    
-        #quinto{        
-            height: 80px;
-        }
-    
-        #quinto h2{
-            font-size: 29px;
-            line-height: 62px;
-    
-        }
-    
-        #footer{
-            height: 290px;
-            background-size: 142% 100%;
-        }
-    
-        #footer article{
-            width: 80%;
-            padding-top:8px;
-            font-size: 12px;
-            line-height: 19px;
-        }
-        #footer #wrap > div{
-            width: 44%;
-            margin:0px 11px;
-            
-        }
-        #wrap h5{
-            font-size: 20px;
-            height: 34px;
-            line-height: 40px;
-        }
-        #contacto p img{
-            width: 13px;
-        }
-        #contacto p{
-            font-size: 11px;
-            line-height: 0px;
-        }
+    #segundo p{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    #tercero h2{
+        font-size: 50px;
+    }
+    #cuarto div{
+        margin-right: 30px;
+    }
+    .imagen{
+        width: 250px;
+    }
+    #cuarto p{
+        font-size: 16px;
+    }
+    #footer article{
+        font-size: 16px;
+    }
+    #quinto{
+        height: 80px;
+    }
+    #quinto h2{
+        font-size: 37px;
+        line-height: 65px;
+    }
+    #wrap h5{
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
 
-        #location iframe{
-            height: 147px;
-        }
-    
-        #copy {
-            font-size: 7px;
-            line-height: 15px;
-            height: 15px;
-        }
+    #contacto p{
+        font-size: 17px;
+    }
+    #copy{
+        font-size: 10px;
+        line-height: 38px;
+    }
        
+}
+
+@media(max-width:492px){
+    #tercero h2{
+        font-size: 45px;
+    }
+    #quinto h2{
+        font-size: 33px;
+    }
+    #footer article{
+        font-size: 14px;
+    }
+    #quinto{
+        height: 90px;
+        line-height: 100px;
+    }
+    .imagen{
+        width: 230px;
+    }
+}
+
+@media(max-width:437px){
+    #neri img{
+        width: 175px;
+        
+    }
+    #menu ul li a{
+        font-size: 10px;
+    }  
+    #textoPrimero{
+        font-size: 35px;
+        line-height: 58px;
+    }    
+
+    #cajaDivPrimero{
+        width: 34%;
+        margin-top: 28px;
+        padding:5px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 13px;
+        line-height: 13px;
+    }
+    #segundo h2{
+        font-size: 45px;
+    }
+    #tercero{
+        height: 80px;
+    }
+    
+    #segundo p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    #tercero h2{
+        font-size: 42px;
+        line-height: 60px;
+    }
+    #cuarto div{
+        margin-right: 20px;
+    }
+    #cuarto h2{
+        font-size: 42px;
+    }
+    .imagen{
+        width: 210px;
+    }
+    #cuarto p{
+        font-size: 14px;
+    }
+    #footer article{
+        font-size: 12px;
+    }
+    #quinto{
+        height: 80px;
+    }
+    #quinto h2{
+        font-size: 30px;
+        line-height: 62px;
+    }
+    #wrap h5{
+        font-size:23px;
+        letter-spacing: 4px;
+        height: 40px;
+        line-height: 50px;
+    }
+    #footer #wrap > div{
+       
+        margin: 0px auto;
+    }
+    #iconoWhatsApp{
+        width: 28px;
+    }
+    #iconoCarta{
+        width: 18px;
+    }
+    #iconoInstagram{
+        width: 18px;
+    }
+    #contacto p{
+        font-size: 16px;
+    }
+    #copy{
+        font-size: 9px;
+    }
 }
 
 
 @media(max-width:398px){
+    #menu ul li a{
+        font-size: 9px;
+    }  
+    #textoPrimero{
+        font-size: 30px;
+        line-height: 52px;
+    }    
+
+    #cajaDivPrimero{
+        width: 35%;
+        margin-top: 28px;
+        padding:8px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 12px;
+        line-height: 12px;
+    }
     #footer{
         background-size: 168% 100%;
-        height: 500px;
-        margin: 0 auto;
+        height:710px;
+        
     }
     #cuarto p{
-        font-size: 11px;
+        font-size: 12px;
     }
 
     #quinto h2{
         font-size: 25px;
     }
+    #tercero h2{
+        font-size: 36px;
+    }
+    #cuarto h2{
+        font-size: 36px;
+    }
+    #segundo h2{
+        font-size: 37px;
+        line-height: 50px;
+        margin-top: 20px;
+    }
+    #segundo{
+        height: 290px;
+    }
+    #segundo p{
+        font-size: 13px;
+        line-height: 19px;
+    }
 
     #contacto p{
-        font-size: 15px;
+        font-size: 13px;
     }
     #footer article{
         font-size: 10px;
+        line-height: 18px;
     }
 
     #wrap h5{
-        font-size: 25px;
+        font-size: 20px;
         letter-spacing: 4px;
+        line-height: 45px;
+    }
+    .imagen{
+        width: 190px;
     }
     #footer #wrap > div{
         float: none;
         width:65%;
-        margin: 30px auto;
+        margin: 0px auto;
     }
+    #iconoWhatsApp{
+        width: 25px;
+    }
+    #iconoCarta{
+        width: 15px;
+    }
+    #iconoInstagram{
+        width: 15px;
+    }
+    #copy{
+        height: 20px;
+        line-height: 15px;
+    }
+}
+
+@media(max-width:340px){
+    #neri img{
+        width: 165px;
+        
+    }
+    #menu ul li a{
+        font-size: 8px;       
+        padding-right: 7px;
+
+    }   
+    #menu ul li {
+       margin:0px 3px;
+            
+    }    
+
+    #textoPrimero{
+        font-size: 28px;
+        line-height: 50px;
+    }    
+
+    #cajaDivPrimero{
+        width: 35%;
+        margin-top: 28px;
+        padding:8px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 10px;
+        line-height: 10px;
+    }
+
+    #segundo{
+        height: 300px;
+        margin-top: 30px;
+    }
+
+    #segundo h2{
+        font-size: 34px;
+        
+    }
+
+    #segundo p{
+        font-size: 12px;
+        line-height: 17px;
+        margin: 0px 15px 0px 15px;
+    }
+    #tercero{
+        height: 60px;
+    }
+
+    #tercero h2{
+        font-size: 32px;
+        line-height:45px;
+    }
+
+    .imagen{
+        width: 160px;
+    }
+    #cuarto p{
+       font-size: 11px;
+    }
+    
+    #cuarto h2{
+        font-size: 34px;
+    }
+
+   #quinto{
+       height: 60px;
+   }
+   #quinto h2{
+       font-size: 20px;
+       line-height:40px;
+   }
+   #contacto p{
+       font-size: 11px;
+   }
+
+    
+}
+
+@media(max-width:318px){
+      
+
+    #textoPrimero{
+        font-size: 23px;
+        line-height: 50px;
+    }    
+
+    #cajaDivPrimero{
+        width: 30%;
+        margin-top: 28px;
+        padding:8px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 8px;
+        line-height: 10px;
+    }
+    #segundo{
+        height: 250px;
+    }
+
+    #segundo h2{
+        font-size: 28px;
+        
+    }
+
+    #segundo p{
+        font-size: 10px;
+        line-height: 14px;
+        margin: 0px 15px 0px 15px;
+    }
+    #tercero{
+        height: 45px;
+    }
+
+    #tercero h2{
+        font-size: 26px;
+        line-height:30px;
+    }
+
+    .imagen{
+        width: 140px;
+    }
+    #cuarto p{
+       font-size: 10px;
+    }
+    
+    #cuarto h2{
+        font-size: 31px;
+        line-height: 40px;
+    }
+   
+
+   #quinto{
+       height: 50px;
+   }
+   #quinto h2{
+       font-size: 16px;
+       line-height:30px;
+   }
+   #contacto p{
+       font-size: 11px;
+       line-height: 10px;
+   }
+   iframe{
+       height:200px;
+   }
+   #footer{
+       height: 650px;
+   }
+}
+
+@media(max-width:276px){
+    #textoPrimero{
+        font-size: 20px;
+        line-height: 45px;
+    }    
+
+    #cajaDivPrimero{
+        width: 30%;
+        margin-top: 28px;
+        padding:5px;
+        border-radius: 12px;
+    }
+    #textoCajaDivPrimero{
+        font-size: 7px;
+        line-height: 10px;
+    }
+    #segundo{
+        height: 250px;
+    }
+
+    #segundo h2{
+        font-size: 24px;
+        
+    }
+
+    #segundo p{
+        font-size: 9px;
+        line-height: 14px;
+        margin: 0px 10px 0px 10px;
+    }
+    #tercero{
+        height: 45px;
+    }
+
+    #tercero h2{
+        font-size: 22px;
+        line-height:27px;
+    }
+
+    .imagen{
+        width: 120px;
+    }
+    #cuarto p{
+       font-size: 9px;
+       margin-left: 10px;
+    }
+    
+    #cuarto h2{
+        font-size: 27px;
+        line-height: 38px;
+    }
+   
+
+   #quinto{
+       height: 50px;
+   }
+   #quinto h2{
+       font-size: 14px;
+       line-height:28px;
+   }
+   #footer article{
+       font-size: 9px;
+   }
+   #contacto p{
+       font-size: 9px;
+       line-height:8px;
+   }
+   
+   #footer{
+       height: 650px;
+   }
+   #wrap h5{
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 45px;
+}
+#copy{
+    font-size: 6px;
+}
 }
 
