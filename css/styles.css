@@ -1,4 +1,4 @@
-/*@font-face{
+@font-face{
     font-family: "Montserrat";
     src: url("fonts/Montserrat-Regular.ttf");
     font-weight: normal;
@@ -6,7 +6,7 @@
 }
 
 @font-face{
-    font-family: "Roboto Condensed";
+    font-family: "Roboto";
     src: url("fonts/RobotoCondensed-Regular.ttf");
     font-weight: normal;
     font-style: normal;
@@ -17,7 +17,8 @@
     src: url("fonts/BebasNeue.otf");
     font-weight: normal;
     font-style: normal;
-}*/
+}
+
 
 
 *{
@@ -116,7 +117,7 @@ body{
 }
 
 #textoPrimero{
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto",Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 70px;
@@ -147,7 +148,7 @@ hr{
 }
 
 #textoCajaDivPrimero{
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto",Arial, Helvetica, sans-serif ;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
@@ -166,7 +167,7 @@ hr{
 
 #segundo h2{
     
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 90px;
@@ -180,7 +181,7 @@ hr{
 
 #segundo p{
     float: right;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 33px;
@@ -197,7 +198,7 @@ hr{
 }
 
 #tercero h2{
-    font-family: "Roboto Condensed" ,sans-serif;
+    font-family: "Roboto" ,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 90px;
@@ -238,7 +239,7 @@ hr{
 }
 
 #cuarto h2{    
-    font-family: "Roboto Condensed" , sans-serif;
+    font-family: "Roboto" ,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 70px;
@@ -252,7 +253,7 @@ hr{
 
 #cuarto p{
     
-    font-family: "Roboto Condensed" ,sans-serif;
+    font-family: "Roboto" ,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -271,7 +272,7 @@ hr{
 }
 
 #quinto h2{
-    font-family: "Roboto Condensed" , Arial, Helvetica, sans-serif;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 70px;
@@ -297,7 +298,7 @@ hr{
 }
 
 #footer article{
-    font-family: "Roboto Condensed" , sans-serif;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
@@ -334,7 +335,7 @@ hr{
     height: 50px;
     letter-spacing: 2px;
     text-align: center;
-    font-family: "Roboto Condensed" , sans-serif;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
     font-size: 40px;
     line-height: 55px;
     color: white;
@@ -342,7 +343,7 @@ hr{
 }
 
 #contacto p{
-    font-family: "Roboto Condensed" , sans-serif;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
 font-style: italic;
 font-weight: bold;
 font-size: 25px;
