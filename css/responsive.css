@@ -323,7 +323,7 @@
         font-size: 12px;
     }  
     #textoPrimero{
-        font-size: 38px;
+        font-size: 35px;
         line-height: 61px;
     }    
 
@@ -338,7 +338,7 @@
         line-height: 15px;
     }
     #segundo h2{
-        font-size: 50px;
+        font-size: 47px;
     }
     #tercero{
         height: 100px;
@@ -349,7 +349,7 @@
         line-height: 25px;
     }
     #tercero h2{
-        font-size: 50px;
+        font-size: 47px;
     }
     #cuarto div{
         margin-right: 30px;
@@ -367,7 +367,7 @@
         height: 80px;
     }
     #quinto h2{
-        font-size: 37px;
+        font-size: 35px;
         line-height: 65px;
     }
     #wrap h5{
@@ -376,7 +376,7 @@
     }
 
     #contacto p{
-        font-size: 17px;
+        font-size: 15px;
     }
     #copy{
         font-size: 10px;
@@ -387,10 +387,10 @@
 
 @media(max-width:492px){
     #tercero h2{
-        font-size: 45px;
+        font-size: 44px;
     }
     #quinto h2{
-        font-size: 33px;
+        font-size: 32px;
     }
     #footer article{
         font-size: 14px;
@@ -413,7 +413,7 @@
         font-size: 10px;
     }  
     #textoPrimero{
-        font-size: 35px;
+        font-size: 33px;
         line-height: 58px;
     }    
 
@@ -428,7 +428,7 @@
         line-height: 13px;
     }
     #segundo h2{
-        font-size: 45px;
+        font-size: 44px;
     }
     #tercero{
         height: 80px;
@@ -439,14 +439,14 @@
         line-height: 22px;
     }
     #tercero h2{
-        font-size: 42px;
+        font-size: 41px;
         line-height: 60px;
     }
     #cuarto div{
         margin-right: 20px;
     }
     #cuarto h2{
-        font-size: 42px;
+        font-size: 41px;
     }
     .imagen{
         width: 210px;
@@ -461,7 +461,7 @@
         height: 80px;
     }
     #quinto h2{
-        font-size: 30px;
+        font-size: 29px;
         line-height: 62px;
     }
     #wrap h5{
@@ -484,7 +484,7 @@
         width: 18px;
     }
     #contacto p{
-        font-size: 16px;
+        font-size: 15px;
     }
     #copy{
         font-size: 9px;
@@ -497,7 +497,7 @@
         font-size: 9px;
     }  
     #textoPrimero{
-        font-size: 30px;
+        font-size: 29px;
         line-height: 52px;
     }    
 
@@ -524,13 +524,13 @@
         font-size: 25px;
     }
     #tercero h2{
-        font-size: 36px;
+        font-size: 35px;
     }
     #cuarto h2{
-        font-size: 36px;
+        font-size: 35px;
     }
     #segundo h2{
-        font-size: 37px;
+        font-size: 36px;
         line-height: 50px;
         margin-top: 20px;
     }
@@ -594,7 +594,7 @@
     }    
 
     #textoPrimero{
-        font-size: 28px;
+        font-size: 26px;
         line-height: 50px;
     }    
 
@@ -615,7 +615,7 @@
     }
 
     #segundo h2{
-        font-size: 34px;
+        font-size: 30px;
         
     }
 
@@ -629,8 +629,8 @@
     }
 
     #tercero h2{
-        font-size: 32px;
-        line-height:45px;
+        font-size: 30px;
+        line-height:42px;
     }
 
     .imagen{
@@ -641,7 +641,7 @@
     }
     
     #cuarto h2{
-        font-size: 34px;
+        font-size: 32px;
     }
 
    #quinto{
@@ -671,7 +671,7 @@
       
 
     #textoPrimero{
-        font-size: 23px;
+        font-size: 22px;
         line-height: 50px;
     }    
 
@@ -690,7 +690,7 @@
     }
 
     #segundo h2{
-        font-size: 28px;
+        font-size: 27px;
         
     }
 
@@ -704,8 +704,8 @@
     }
 
     #tercero h2{
-        font-size: 26px;
-        line-height:30px;
+        font-size: 25px;
+        line-height:25px;
     }
 
     .imagen{
@@ -716,7 +716,7 @@
     }
     
     #cuarto h2{
-        font-size: 31px;
+        font-size: 30px;
         line-height: 40px;
     }
    
@@ -729,7 +729,7 @@
        line-height:30px;
    }
    #contacto p{
-       font-size: 11px;
+       font-size: 10px;
        line-height: 10px;
    }
    iframe{
